@@ -1,12 +1,16 @@
 ﻿using System;
 
-namespace my_first_dotnet_project
+namespace Hello
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var generator = new FibonacciGenerator();
+            foreach (var digit in generator.Generate(15))
+            {
+                Console.WriteLine(digit);
+            }
         }
     }
 }
