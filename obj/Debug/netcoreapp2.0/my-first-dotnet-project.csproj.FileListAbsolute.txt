@@ -1,0 +1,10 @@
+/home/bianca/development/my-first-dotnet-project/bin/Debug/netcoreapp2.0/my-first-dotnet-project.deps.json
+/home/bianca/development/my-first-dotnet-project/bin/Debug/netcoreapp2.0/my-first-dotnet-project.runtimeconfig.json
+/home/bianca/development/my-first-dotnet-project/bin/Debug/netcoreapp2.0/my-first-dotnet-project.runtimeconfig.dev.json
+/home/bianca/development/my-first-dotnet-project/bin/Debug/netcoreapp2.0/my-first-dotnet-project.dll
+/home/bianca/development/my-first-dotnet-project/bin/Debug/netcoreapp2.0/my-first-dotnet-project.pdb
+/home/bianca/development/my-first-dotnet-project/obj/Debug/netcoreapp2.0/my-first-dotnet-project.csproj.CoreCompileInputs.cache
+/home/bianca/development/my-first-dotnet-project/obj/Debug/netcoreapp2.0/my-first-dotnet-project.AssemblyInfoInputs.cache
+/home/bianca/development/my-first-dotnet-project/obj/Debug/netcoreapp2.0/my-first-dotnet-project.AssemblyInfo.cs
+/home/bianca/development/my-first-dotnet-project/obj/Debug/netcoreapp2.0/my-first-dotnet-project.dll
+/home/bianca/development/my-first-dotnet-project/obj/Debug/netcoreapp2.0/my-first-dotnet-project.pdb
